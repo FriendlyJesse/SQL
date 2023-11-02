@@ -1,3 +1,9 @@
+- [3. Database query](#3-database-query)
+  - [3.1. 创建数据库](#31-创建数据库)
+  - [3.2. 删除数据库](#32-删除数据库)
+  - [3.3. 查看版本](#33-查看版本)
+  - [3.4. PostgreSQL](#34-postgresql)
+
 # 3. Database query
 
 ## 3.1. 创建数据库
